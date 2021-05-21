@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hotkey"
+        android:title="弹出热键" />
+<!--    <item-->
+<!--        android:id="@+id/downloadfile"-->
+<!--        android:title="下载文件" />-->
+<!--    <item-->
+<!--        android:id="@+id/loveop"-->
+<!--        android:title="添加到“喜欢”" />-->
+</menu>
